@@ -73,15 +73,7 @@ const juan = {
 
 # 📂 Proyectos
 
-| Proyecto | Descripción |
-|-----------|-------------|
-| 🏥 Medisan IPS | Sistema de gestión para control prenatal |
-| 🍔 Zona 44 | Plataforma web para gastrobar |
-| 💄 Yalú | Branding y desarrollo web |
-| 🤖 ChatBot WhatsApp | Automatización de atención |
-| 📱 Apps Flutter | Aplicaciones móviles multiplataforma |
 
----
 
 # 📊 Estadísticas
 
